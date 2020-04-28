@@ -91,7 +91,13 @@
     	width: 50%;
   	}
 
-  	.lessons {
+  	.container-main {
+		height:70px;
+		width:100%;
+		background-color:#504FFF;
+	}
+		
+	.lessons {
 		display:flex;
 		flex-wrap:wrap;
 		height:860px;
@@ -167,6 +173,12 @@
 		margin-right: 0px;
 	}
 
+	.container-main {
+		height:70px;
+		width:100%;
+		background-color:#504FFF;
+	}
+		
 	.lessons {
 		flex-direction:column;
 		height:1500px;
