@@ -17,7 +17,9 @@ a {
 }
 
 
-
+.ekstra-1 {
+  margin:0 auto;
+}
 
 .heading {
 /*  float:left;  */
@@ -160,8 +162,6 @@ a {
 
 
 
-
-
 .btn2 {
   padding: 15px 40px;
   color: white;
@@ -252,7 +252,6 @@ header {
 	position: fixed;
 	top: 0;
   	z-index: 10;
-
 }
 
 
@@ -387,7 +386,7 @@ a {
 }
 
 .container-main {
-	height:70px;
+	height:80px;
 	width:100%;
 	background-color:#504FFF;
 }
